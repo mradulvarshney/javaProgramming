@@ -14,7 +14,7 @@ class Hero extends Vehicle
 	}
 	public void getModelName()
 	{
-		System.out.println("modelName: " + modelName);
+		System.out.println("modelNames: " + modelName);
 	}
 	public void getRegistrationNumber()
 	{
